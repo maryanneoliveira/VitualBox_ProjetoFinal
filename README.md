@@ -53,7 +53,7 @@ Todas as VMs foram criadas com configuração idêntica, dimensionada para o pap
 | :--- | :--- | :--- |
 | **Memória RAM** | 2048 MB (2 GB) | Adequado para o Ubuntu Server em modo texto e os serviços do projeto (SSH), permitindo operações mais fluidas. |
 | **Processador** | 2 vCPU (2 núcleos) | Garante melhor desempenho em operações do sistema e processamento de múltiplas conexões SSH simultâneas. |
-| **Disco** | 32 GB | Acomoda o sistema base, pacotes adicionais (idioma, SSH) e margem para logs. |
+| **Disco** | 10 GB | Garante melhor funcionamento da maquina no virtual box |
 | **Sistema Operacional** | Ubuntu Server | Distribuição voltada a servidores, sem interface gráfica, alinhada ao objetivo do projeto. |
 | **Interface de rede** | 1 adaptador | Configurado como **Rede Interna** do hipervisor para conectar as VMs na mesma sub-rede isolada. |
 
@@ -61,7 +61,7 @@ Todas as VMs foram criadas com configuração idêntica, dimensionada para o pap
 
 ## 5. Endereçamento IP
 
-### 5.1. Fundamentação do Subnetting
+### 5.1. Organização do Subnetting
 
 A turma `bsi-26-1` utiliza a rede principal `192.168.26.0/24`. Essa rede é dividida em sub-redes de máscara `/28` (`255.255.255.240`), o que produz blocos de 16 endereços cada ($2^4 = 16$), sendo **14 endereços úteis** por bloco (descontados os endereços de rede e de broadcast). 
 
@@ -72,15 +72,15 @@ A atribuição por grupo ocorre de forma sequencial:
 | Grupo 1 | 192.168.26.0 – 192.168.26.15 | 192.168.26.0 | 192.168.26.15 |
 | Grupo 2 | 192.168.26.16 – 192.168.26.31 | 192.168.26.16 | 192.168.26.31 |
 | Grupo 3 | 192.168.26.32 – 192.168.26.47 | 192.168.26.32 | 192.168.26.47 |
-| **Grupo 4 (Este)** | **192.168.26.48 – 192.168.26.63** | **192.168.26.48** | **192.168.26.63** |
+| Grupo 4 | 192.168.26.48 – 192.168.26.63 | 192.168.26.48 | 192.168.26.63 |
+| Grupo 5 | 192.168.26.64 – 192.168.26.79 | 192.168.26.64 | 192.168.26.79 |
+| **Grupo 6 (Este)** | **192.168.26.80 – 192.168.26.95** | **192.168.26.80** | **192.168.26.95** |
 
-**Resumo da Sub-rede do Grupo 4:**
-* **Endereço de rede:** `192.168.26.48`
-* **Primeiro endereço útil:** `192.168.26.49`
-* **Último endereço útil:** `192.168.26.62`
-* **Endereço de broadcast:** `192.168.26.63`
-* **Máscara de sub-rede:** `255.255.255.240` (`/28`)
-* **Hosts úteis disponíveis:** 14 (As 8 VMs ocupam os IPs `.49` ao `.56`, restando do `.57` ao `.62` livres)
+**Parâmetros Técnicos da Sub-rede (Grupo 6)**
+* **Máscara Decimal:** `255.255.255.240`
+* **Primeiro IP Válido (Hosts):** `192.168.26.81`
+* **Último IP Válido (Hosts):** `192.168.26.94`
+* **Quantidade de IPs Úteis:** 14 endereços disponíveis para as 8 máquinas virtuais.
 
 ### 5.2. Tabela de Endereços das VMs
 
