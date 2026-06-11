@@ -32,12 +32,10 @@ O laboratório prático consiste na simulação de uma infraestrutura de rede lo
 
 | Nome Completo | Usuário (login) | E-mail | GitHub |
 | :--- | :--- | :--- | :--- |
-| Alex Rodrigo Lima de Arruda Santos| `alex.rodrigo` | arlas1@aluno.ifal.edu.br | [@dzzabreu](https://github.com/dzzabreu) |
-| Bruno Gabriel dos Santos Lima | `bruno.gabriel ` | bgsl2@aluno.ifal.edu.br | [@isaquebraga](https://github.com/isaquebraga) |
-| João Guilherme Amaro da Silva Gomes | `joao.guilherme` | jgasg1@aluno.ifal.edu.br | [@quokequack](https://github.com/quokequack) |
+| Alex Rodrigo Lima de Arruda Santos| `alex.rodrigo` | arlas1@aluno.ifal.edu.br | [@user](https://github.com/user) |
+| Bruno Gabriel dos Santos Lima | `bruno.gabriel ` | bgsl2@aluno.ifal.edu.br | [@iuser](https://github.com/user) |
+| João Guilherme Amaro da Silva Gomes | `joao.guilherme` | jgasg1@aluno.ifal.edu.br | [@Joao-Guilhere-Amaro](https://github.com/Joao-Guilhere-Amaro) |
 | Maryane Santos de Oliveira | `maryane.oliveira` | mso12@aluno.ifal.edu.br | [@maryanneoliveira](https://github.com/maryanneoliveira) |
-
-> 📌 **Nota de Administração:** Cada integrante é o administrador (membro do grupo `sudo`) das duas máquinas sob sua responsabilidade. Ainda assim, em todas as VMs são criados os usuários de todos os integrantes, conforme exigência do projeto.
 
 ---
 
