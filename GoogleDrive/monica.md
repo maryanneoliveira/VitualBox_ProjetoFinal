@@ -30,7 +30,6 @@ Ficha individual da máquina virtual no ambiente de rede do Grupo 6.
 * `joao.guilherme`
 * `administrador` (conta administrativa padrão)
 
-> **Membro do grupo sudo nesta máquina:** bruno.gabriel
 
 ## Configuração aplicada
 
