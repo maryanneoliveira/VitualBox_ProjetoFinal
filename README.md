@@ -12,20 +12,19 @@
 
 ## 1. Visão Geral
 
-Este repositório documenta a construção de um ambiente de rede virtualizada composto por **8 máquinas virtuais (VMs)** executando o sistema operacional **Ubuntu Server**, conforme a especificação do projeto final da disciplina.
+Este documento descreve o passo-a-passo para implementar um ambiente de rede virtualizado com **8 máquinas virtuais Ubuntu Server** para a disciplina de Fundamentos de Redes de Computadores. O projeto consiste em criar uma infraestrutura de rede com configuração estática de IPs, hostnames, usuários e testes de conectividade entre os servidores.
 
-O ambiente reproduz, em escala reduzida, uma rede local segmentada por sub-redes, na qual cada host possui endereçamento IP estático, identificação por nome totalmente qualificado (FQDN), resolução de nomes local e acesso administrativo via SSH. O objetivo pedagógico é exercitar, de ponta a ponta, os conceitos de endereçamento IPv4, sub-redes (*subnetting*) com máscara `/28`, nomenclatura de hosts e domínios, resolução de nomes e acesso remoto seguro.
+Olaboratório prático consiste na simulação de uma infraestrutura de rede local dividida em sub-redes. Cada ativo da rede foi configurado com IP estático, nome de domínio totalmente qualificado (FQDN), serviço de resolução de nomes local e permissão de gerência remota via protocolo SSH. A finalidade didática desta atividade é aplicar, de forma integrada, os fundamentos de endereçamento IPv4, divisão de sub-redes (subnetting) com máscara `/28`, padrões de nomenclatura de hosts, mapeamento de DNS local e administração remota segura.
 
 ### Organização da Documentação
 
 | Documento | Conteúdo |
 | :--- | :--- |
-| **`README.md`** (este arquivo) | Visão geral, integrantes, tabelas de hardware, IPs e nomenclatura, topologia e estrutura do repositório. |
-| **`docs/passo-a-passo.md`** | Tutorial técnico detalhado de instalação e configuração de cada VM, com a fundamentação de cada decisão. |
-| **`docs/testes-ping.md`** | Resultados dos testes de conectividade (*ping*) entre VMs por IP e FQDN. |
-| **`docs/testes-ssh.md`** | Resultados dos testes de acesso remoto (*SSH*) com hostnames e usuários criados. |
-| **`VMs/G4-PCx-VMy.md`** | Ficha individual de cada VM (hostname, IP, responsável, link do Drive). |
-| **Google Drive** (Pasta externa) | Arquivos das VMs nos formatos `.ova` e `.vdi` para download. |
+| **`README.md`** (este arquivo) | Visão geral, integrantes, tabelas de hardware, IPs e nomenclatura, topologia e estrutura do repositório no github. |
+| **`tutorial.md`** | Tutorial técnico detalhado de instalação e configuração de cada VM. |
+| **`imagens.md`** | Resultados do processo de criação do ambiente virtual. |
+| **`Ficha_gp6.md`** | Ficha individual de cada VM (hostname, IP, responsável). |
+| **Google Drive** (Pasta externa) | Arquivos das VMs nos formatos `.ova` para download. |
 
 ---
 
