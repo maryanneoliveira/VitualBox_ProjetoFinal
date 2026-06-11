@@ -41,7 +41,7 @@ O laboratório prático consiste na simulação de uma infraestrutura de rede lo
 
 ## 3. Topologia da Rede
 
-A topologia adotada segue o diagrama de referência fornecido na especificação do projeto. As 8 VMs pertencem à mesma sub-rede **192.168.26.48/28**, comunicando-se em camada de enlace por meio de uma rede interna virtual do hipervisor (VirtualBox).
+A topologia adotada segue o diagrama de referência fornecido na especificação do projeto. As 8 VMs pertencem à mesma sub-rede **192.168.26.80**, comunicando-se em camada de enlace por meio de uma rede interna virtual do hipervisor (VirtualBox).
 
 ---
 
