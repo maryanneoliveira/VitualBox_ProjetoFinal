@@ -6,9 +6,8 @@
 * **Professor:** Alaelson de Castro Jatoba Neto
 * **Curso:** Bacharelado em Sistemas de Informação (BSI)
 * **Turma:** bsi-26-1 (2026.1)
-* **Grupo:** Grupo 4 (G4)
-* **Repositório:** [github.com/quokequack/virtual-box-projeto-final](https://github.com/quokequack/virtual-box-projeto-final/tree/main)
-
+* **Grupo:** Grupo 6
+* **Repositório:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal
 ---
 
 ## 1. Visão Geral
