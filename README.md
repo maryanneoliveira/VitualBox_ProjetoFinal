@@ -30,8 +30,8 @@ Olaboratório prático consiste na simulação de uma infraestrutura de rede loc
 
 ## 2. Integrantes do Grupo
 
-| Nome Completo | Usuário (login) | E-mail | GitHub | Máquinas sob Responsabilidade |
-| :--- | :--- | :--- | :--- | :--- |
+| Nome Completo | Usuário (login) | E-mail | GitHub |
+| :--- | :--- | :--- | :--- |
 | Andrezza Abreu de Magalhães | `andrezza.magalhaes` | aam6@aluno.ifal.edu.br | [@dzzabreu](https://github.com/dzzabreu) | G4-PC1-VM1, G4-PC1-VM2 |
 | Isaque de Souza Braga | `isaque.braga` | isb15@aluno.ifal.edu.br | [@isaquebraga](https://github.com/isaquebraga) | G4-PC2-VM1, G4-PC2-VM2 |
 | Maria Luisa Alaquoke F. dos Santos | `maria.santos` | mlafs2@aluno.ifal.edu.br | [@quokequack](https://github.com/quokequack) | G4-PC3-VM1, G4-PC3-VM2 |
