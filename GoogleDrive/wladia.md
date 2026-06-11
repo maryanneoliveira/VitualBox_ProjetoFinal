@@ -11,7 +11,7 @@ Ficha individual da máquina virtual no ambiente de rede do Grupo 6.
 | **Apelido (alias)** | wladia |
 | **Endereço IP** | 192.168.26.82/28 |
 | **Sub-rede** | 192.168.26.80/28 (255.255.255.240) |
-| **Responsável (admin)** | wladia |
+
 
 ## Hardware
 
