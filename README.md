@@ -16,15 +16,15 @@ Este documento descreve o passo-a-passo para implementar um ambiente de rede vir
 
 O laboratório prático consiste na simulação de uma infraestrutura de rede local dividida em sub-redes. Cada ativo da rede foi configurado com IP estático, nome de domínio totalmente qualificado (FQDN), serviço de resolução de nomes local e permissão de gerência remota via protocolo SSH. A finalidade didática desta atividade é aplicar, de forma integrada, os fundamentos de endereçamento IPv4, divisão de sub-redes (subnetting) com máscara `/28`, padrões de nomenclatura de hosts, mapeamento de DNS local e administração remota segura.
 
-### Organização da Documentação
+## 🗂️ Organização da Documentação
 
-| Documento | Conteúdo |
+| Documento / Diretório | Conteúdo e Descrição |
 | :--- | :--- |
-| **`README.md`** (este arquivo) | Visão geral, integrantes, tabelas de hardware, IPs e nomenclatura, topologia e estrutura do repositório no github. |
-| **`tutorial.md`** | Tutorial técnico detalhado de instalação e configuração de cada VM. |
-| **`imagens.md`** | Resultados do processo de criação do ambiente virtual. |
-| **`Ficha_gp6.md`** | Ficha individual de cada VM (hostname, IP, responsável). |
-| **Google Drive** (Pasta externa) | Arquivos das VMs nos formatos `.ova` para download. |
+| **`README.md`** (este arquivo) | Visão geral do projeto, integrantes do Grupo 6, tabelas consolidadas de hardware, mapeamento de IPs, nomenclatura padrão, topologia e estrutura geral do repositório no GitHub. |
+| **`docs/tutorial.md`** | Roteiro técnico detalhado documentando os passos de instalação e parametrização do sistema operacional de cada VM. |
+| **`docs/teste_ping.md`** | Evidências, logs e relatórios dos testes de conectividade local (`ping`) realizados entre os hosts da sub-rede. |
+| **`docs/teste_ssh.md`** | Relatório de validação e logs comprovando o correto funcionamento do acesso remoto seguro (`ssh`) nas instâncias. |
+| **`GoogleDrive/`** | Diretório contendo os arquivos individuais de especificação de cada máquina (Fichas Técnicas) e as orientações/links para download dos arquivos de exportação `.ova`. |
 
 ---
 
