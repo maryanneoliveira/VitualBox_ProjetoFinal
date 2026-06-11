@@ -33,11 +33,11 @@ Ficha individual da máquina virtual no ambiente de rede do Grupo 6.
 
 ## Configuração aplicada
 
-A configuração seguiu o tutorial em `../docs/passo-a-passo.md`.
+A configuração seguiu o tutorial em `../docs/tutorial.md`.
 
 ## Arquivo da VM
 
 Pasta da VM no Google Drive com os arquivos para download:
-[Acessar pasta no Google Drive](Substitua_Pelo_Link_Do_Seu_Drive)
+[Acessar pasta no Google Drive](https://drive.google.com/drive/folders/1u9IyqkYuf8fma2Ci4PTQjKcYpeCI2SyH?usp=sharing)
 
-*A pasta contém a VM exportada nos formatos .ova (requisito do professor) e .vdi.*
+*A pasta contém a VM exportada nos formatos .ova
