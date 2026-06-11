@@ -32,8 +32,8 @@ O laboratório prático consiste na simulação de uma infraestrutura de rede lo
 
 | Nome Completo | Usuário (login) | E-mail | GitHub |
 | :--- | :--- | :--- | :--- |
-| Alex Rodrigo Lima de Arruda Santos| `alex.rodrigo` | arlas1@aluno.ifal.edu.br | [@user](https://github.com/user) |
-| Bruno Gabriel dos Santos Lima | `bruno.gabriel ` | bgsl2@aluno.ifal.edu.br | [@iuser](https://github.com/user) |
+| Alex Rodrigo Lima de Arruda Santos| `alex.rodrigo` | arlas1@aluno.ifal.edu.br | [@arlasx](https://github.com/arlasx) |
+| Bruno Gabriel dos Santos Lima | `bruno.gabriel ` | bgsl2@aluno.ifal.edu.br | [@bgsl2](https://github.com/bgsl2) |
 | João Guilherme Amaro da Silva Gomes | `joao.guilherme` | jgasg1@aluno.ifal.edu.br | [@Joao-Guilhere-Amaro](https://github.com/Joao-Guilhere-Amaro) |
 | Maryane Santos de Oliveira | `maryane.oliveira` | mso12@aluno.ifal.edu.br | [@maryanneoliveira](https://github.com/maryanneoliveira) |
 
