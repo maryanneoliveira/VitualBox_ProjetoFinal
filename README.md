@@ -14,7 +14,7 @@
 
 Este documento descreve o passo-a-passo para implementar um ambiente de rede virtualizado com **8 máquinas virtuais Ubuntu Server** para a disciplina de Fundamentos de Redes de Computadores. O projeto consiste em criar uma infraestrutura de rede com configuração estática de IPs, hostnames, usuários e testes de conectividade entre os servidores.
 
-Olaboratório prático consiste na simulação de uma infraestrutura de rede local dividida em sub-redes. Cada ativo da rede foi configurado com IP estático, nome de domínio totalmente qualificado (FQDN), serviço de resolução de nomes local e permissão de gerência remota via protocolo SSH. A finalidade didática desta atividade é aplicar, de forma integrada, os fundamentos de endereçamento IPv4, divisão de sub-redes (subnetting) com máscara `/28`, padrões de nomenclatura de hosts, mapeamento de DNS local e administração remota segura.
+O laboratório prático consiste na simulação de uma infraestrutura de rede local dividida em sub-redes. Cada ativo da rede foi configurado com IP estático, nome de domínio totalmente qualificado (FQDN), serviço de resolução de nomes local e permissão de gerência remota via protocolo SSH. A finalidade didática desta atividade é aplicar, de forma integrada, os fundamentos de endereçamento IPv4, divisão de sub-redes (subnetting) com máscara `/28`, padrões de nomenclatura de hosts, mapeamento de DNS local e administração remota segura.
 
 ### Organização da Documentação
 
@@ -32,10 +32,10 @@ Olaboratório prático consiste na simulação de uma infraestrutura de rede loc
 
 | Nome Completo | Usuário (login) | E-mail | GitHub |
 | :--- | :--- | :--- | :--- |
-| Andrezza Abreu de Magalhães | `andrezza.magalhaes` | aam6@aluno.ifal.edu.br | [@dzzabreu](https://github.com/dzzabreu) | G4-PC1-VM1, G4-PC1-VM2 |
-| Isaque de Souza Braga | `isaque.braga` | isb15@aluno.ifal.edu.br | [@isaquebraga](https://github.com/isaquebraga) | G4-PC2-VM1, G4-PC2-VM2 |
-| Maria Luisa Alaquoke F. dos Santos | `maria.santos` | mlafs2@aluno.ifal.edu.br | [@quokequack](https://github.com/quokequack) | G4-PC3-VM1, G4-PC3-VM2 |
-| Renilson José da Silva Santos | `renilson.santos` | rjss7@aluno.ifal.edu.br | [@renilsou](https://github.com/renilsou) | G4-PC4-VM1, G4-PC4-VM2 |
+| Alex Rodrigo Lima de Arruda Santos| `alex.rodrigo` | arlas1@aluno.ifal.edu.br | [@dzzabreu](https://github.com/dzzabreu) |
+| Bruno Gabriel dos Santos Lima | `bruno.gabriel ` | bgsl2@aluno.ifal.edu.br | [@isaquebraga](https://github.com/isaquebraga) |
+| João Guilherme Amaro da Silva Gomes | `joao.guilherme` | jgasg1@aluno.ifal.edu.br | [@quokequack](https://github.com/quokequack) |
+| Maryane Santos de Oliveira | `maryane.oliveira` | mso12@aluno.ifal.edu.br | [@maryanneoliveira](https://github.com/maryanneoliveira) |
 
 > 📌 **Nota de Administração:** Cada integrante é o administrador (membro do grupo `sudo`) das duas máquinas sob sua responsabilidade. Ainda assim, em todas as VMs são criados os usuários de todos os integrantes, conforme exigência do projeto.
 
