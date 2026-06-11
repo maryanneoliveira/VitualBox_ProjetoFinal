@@ -82,32 +82,16 @@ A atribuição por grupo ocorre de forma sequencial:
 * **Último IP Válido (Hosts):** `192.168.26.94`
 * **Quantidade de IPs Úteis:** 14 endereços disponíveis para as 8 máquinas virtuais.
 
-### 5.2. Tabela de Endereços das VMs
+### 5.2. Mapeamento de Hosts (FQDN) e Endereçamento
 
-| VM | Endereço IP | Máscara |
-| :--- | :--- | :--- |
-| G4-PC1-VM1 | `192.168.26.49` | `/28` (`255.255.255.240`) |
-| G4-PC1-VM2 | `192.168.26.50` | `/28` |
-| G4-PC2-VM1 | `192.168.26.51` | `/28` |
-| G4-PC2-VM2 | `192.168.26.52` | `/28` |
-| G4-PC3-VM1 | `192.168.26.53` | `/28` |
-| G4-PC3-VM2 | `192.168.26.54` | `/28` |
-| G4-PC4-VM1 | `192.168.26.55` | `/28` |
-| G4-PC4-VM2 | `192.168.26.56` | `/28` |
-
+| VM | Hostname | Interface | FQDN (Nome de Domínio Completo) | Endereço IP | Máscara de Rede |
+| :---: | :---: | :---: | :--- | :---: | :---: |
+| **VM 1** | `monica` | `enp0s3` | `monica.grupo6.bsi-26-1.maceio.lab` | `192.168.26.81` | `255.255.255.240` |
+| **VM 2** | `wladia` | `enp0s3` | `wladia.grupo6.bsi-26-1.maceio.lab` | `192.168.26.82` | `255.255.255.240` |
+| **VM 3** | `fabrisia` | `enp0s3` | `fabrisia.grupo6.bsi-26-1.maceio.lab` | `192.168.26.83` | `255.255.255.240` |
+| **VM 4** | `alaelson` | `enp0s3` | `alaelson.grupo6.bsi-26-1.maceio.lab` | `192.168.26.84` | `255.255.255.240` |
+| **VM 5** | `tarcio` | `enp0s3` | `tarcio.grupo6.bsi-26-1.maceio.lab` | `192.168.26.85` | `255.255.255.240` |
+| **VM 6** | `kenji` | `enp0s3` | `kenji.grupo6.bsi-26-1.maceio.lab` | `192.168.26.86` | `255.255.255.240` |
+| **VM 7** | `frederico` | `enp0s3` | `frederico.grupo6.bsi-26-1.maceio.lab` | `192.168.26.87` | `255.255.255.240` |
+| **VM 8** | `ricardo` | `enp0s3` | `ricardo.grupo6.bsi-26-1.maceio.lab` | `192.168.26.88` | `255.255.255.240` |
 ---
-
-## 6. Nomenclatura e Domínio (FQDN)
-
-O domínio do grupo segue o formato estrito definido pela disciplina. O nome curto (*hostname*) é utilizado como apelido (*alias*) na resolução local, e o FQDN é o nome canônico do host.
-
-| VM | Hostname | FQDN | Apelido (Alias) | IP |
-| :--- | :--- | :--- | :--- | :--- |
-| G4-PC1-VM1 | `g4-pc1-vm1` | `g4-pc1-vm1.grupo4-bsi-26-1.maceio.lab` | `g4-pc1-vm1` | `192.168.26.49` |
-| G4-PC1-VM2 | `g4-pc1-vm2` | `g4-pc1-vm2.grupo4-bsi-26-1.maceio.lab` | `g4-pc1-vm2` | `192.168.26.50` |
-| G4-PC2-VM1 | `g4-pc2-vm1` | `g4-pc2-vm1.grupo4-bsi-26-1.maceio.lab` | `g4-pc2-vm1` | `192.168.26.51` |
-| G4-PC2-VM2 | `g4-pc2-vm2` | `g4-pc2-vm2.grupo4-bsi-26-1.maceio.lab` | `g4-pc2-vm2` | `192.168.26.52` |
-| G4-PC3-VM1 | `g4-pc3-vm1` | `g4-pc3-vm1.grupo4-bsi-26-1.maceio.lab` | `g4-pc3-vm1` | `192.168.26.53` |
-| G4-PC3-VM2 | `g4-pc3-vm2` | `g4-pc3-vm2.grupo4-bsi-26-1.maceio.lab` | `g4-pc3-vm2` | `192.168.26.54` |
-| G4-PC4-VM1 | `g4-pc4-vm1` | `g4-pc4-vm1.grupo4-bsi-26-1.maceio.lab` | `g4-pc4-vm1` | `192.168.26.55` |
-| G4-PC4-VM2 | `g4-pc4-vm2` | `g4-pc4-vm2.grupo4-bsi-26-1.maceio.lab` | `g4-pc4-vm2` | `192.168.26.56` |
