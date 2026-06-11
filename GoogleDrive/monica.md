@@ -19,7 +19,7 @@ Ficha individual da máquina virtual no ambiente de rede do Grupo 6.
 | :--- | :--- |
 | **RAM** | 2048 MB (2 GB) |
 | **vCPU** | 2 núcleos |
-| **Disco** | 32 GB |
+| **Disco** | 10 GB |
 | **SO** | Ubuntu Server |
 
 ## Usuários criados nesta VM
