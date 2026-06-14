@@ -20,7 +20,7 @@ O laboratório prático consiste na simulação de uma infraestrutura de rede lo
 
 | Documento / Diretório | Conteúdo e Descrição |
 | :--- | :--- |
-| **[`README.md`** (este arquivo)](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/README.md)** | Visão geral do projeto, integrantes do Grupo 6, tabelas consolidadas de hardware, mapeamento de IPs, nomenclatura padrão, topologia e estrutura geral do repositório no GitHub. |
+| **[`README.md` (este arquivo)](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/README.md)** | Visão geral do projeto, integrantes do Grupo 6, tabelas consolidadas de hardware, mapeamento de IPs, nomenclatura padrão, topologia e estrutura geral do repositório no GitHub. |
 | **[`docs/tutorial.md`](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/tutorial.md)** | Roteiro técnico detalhado documentando os passos de instalação e parametrização do sistema operacional de cada VM. |
 | **[`docs/teste_ping.md`](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ping.md)** | Evidências, logs e relatórios dos testes de conectividade local (`ping`) realizados entre os hosts da sub-rede. |
 | **[`docs/teste_ssh.md`](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ssh.md)** | Relatório de validação e logs comprovando o correto funcionamento do acesso remoto seguro (`ssh`) nas instâncias. |
