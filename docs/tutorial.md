@@ -236,17 +236,8 @@ o mapeamento de **todas** as VMs do grupo):
 
 <img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_20_16_00_ FQDN CRIADOS" src="https://github.com/user-attachments/assets/41fb1b5d-0725-4288-b707-de47e202f567" />
 
-Exemplo da linha `127.0.1.1` para a VM1:
-
-```text
-127.0.1.1   monica   monica.grupo6.bsi-26-1.maceio.lab
-```
-
-**Por quê?** O arquivo `/etc/hosts` provê **resolução de nomes estática e local**, sem
-necessidade de um servidor DNS dedicado. Com esse mapeamento, é possível executar `ping` e
-`ssh` usando o **nome** ou o **FQDN** das máquinas (e não apenas o IP), validando o requisito
-de nomenclatura do projeto. A ordem das colunas é: **IP → FQDN (nome canônico) → apelido
-(alias)**. A linha `127.0.1.1` associa o próprio host ao seu nome, prática padrão no Debian/Ubuntu.
+<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_53_57_users created" src="https://github.com/user-attachments/assets/2707d709-1f25-4cb0-a858-0d0e9cb65c31" />
+<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_53_57_users created" src="https://github.com/user-attachments/assets/025d0303-328c-465c-9596-6342bf123052" />
 
 ---
 
@@ -260,6 +251,8 @@ sudo adduser alex.rodrigo
 sudo adduser maryane.oliveira
 sudo adduser joao.guilherme
 ```
+<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_53_57_users created" src="https://github.com/user-attachments/assets/6042a773-e10d-4e04-8f57-c20962f0bf4e" />
+
 
 Conceda privilégios administrativos ao **responsável** pela máquina (membro do grupo `sudo`):
 OBS: Em nosso grupo, todos os usuarios tem acesso administrativo a todas as maquinas (VM)
@@ -275,6 +268,7 @@ sudo usermod -aG sudo alex.rodrigo
 sudo usermod -aG sudo maryane.oliveira
 sudo usermod -aG sudo joao.guilherme
 ```
+<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_49_11_CADASTRO USER SUDO GROUPS" src="https://github.com/user-attachments/assets/772c3974-661b-4005-b5fc-e0025d8769c2" />
 
 ---
 
