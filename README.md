@@ -8,6 +8,8 @@
 * **Turma:** bsi-26-1 (2026.1)
 * **Grupo:** Grupo 6
 * **Repositório:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal
+* **[Prints dos testes de ping](https://drive.google.com/drive/folders/1Ui_S7MnHtuainnKf8-hEbFOZzrESJkBU?usp=drive_link)**
+* **[Prints NETPLAN](https://drive.google.com/drive/folders/163_8umNh3IB1WxYeIAqe78MVQGRbA2Y7?usp=drive_link)**
 ---
 
 ## 1. Visão Geral
