@@ -31,6 +31,10 @@ ping -c 4 192.168.26.84
 ping -c 4 alaelson
 ping -c 4 alaelson.grupo6.bsi-26-1.maceio.lab
 ```
+<img width="1280" height="800" alt="monica-pra-alaelson-1" src="https://github.com/user-attachments/assets/4b6f3a13-e688-4bf4-9018-19ad7cbfbedf" />
+<img width="1280" height="800" alt="monica-pra-alaelson-2" src="https://github.com/user-attachments/assets/bcc85aa6-8106-4529-b550-699c82f8a962" />
+<img width="1280" height="800" alt="monica-pra-alaelson-3" src="https://github.com/user-attachments/assets/f9344c55-d8c6-4e36-bec2-92fa15f4506a" />
+
 ## Testes efetuados a partir de wladia
 Destino: monica
 ```bash
