@@ -23,19 +23,21 @@ Os testes foram executados e documentados nas imagens abaixo:
 ```bash
 ssh bruno.gabriel@192.168.26.81
 ```
-Espaço IMG
+<img width="1280" height="800" alt="BRUNO-E-MONICA_POR_IP" src="https://github.com/user-attachments/assets/6e7ac210-5799-46fd-9b60-b3c77cea88f4" />
+
 
 #### Por hostname (monica)
 ```bash
 ssh bruno.gabriel@monica
 ```
-Espaço IMG
+<img width="1280" height="800" alt="BRUNO-E-MONICA_POR_HOSTENAME" src="https://github.com/user-attachments/assets/5337fad9-828a-494f-8559-e30c2ffd328d" />
+
 
 #### Por FQDN
 ```bash
 ssh bruno.gabriel@monica.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
+<img width="1280" height="800" alt="BRUNO-E-MONICA_POR_FQDN" src="https://github.com/user-attachments/assets/e8a249f5-9255-4c69-b2c6-14bc083d998f" />
 
 ---
 
@@ -43,21 +45,24 @@ Espaço IMG
 
 Os testes foram executados e documentados nas imagens abaixo:
 ```bash
-ssh bruno.gabriel@192.168.26.83
+ssh bruno.gabriel@192.168.26.82
 ```
-Espaço IMg
+<img width="1280" height="800" alt="BRUNO-E-WLADIA-POR-IP" src="https://github.com/user-attachments/assets/afd41b08-2372-44c9-8ed7-617228e7ce44" />
+
 
 #### Por hostname (wladia)
 ```bash
-ssh bruno.gabriel@fabrisia
+ssh bruno.gabriel@wladia
 ```
-Espaço IMG
+<img width="1280" height="800" alt="BRUNO-E-WLADIA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/f877a122-17b7-41c4-bf2c-e9d8d46375c4" />
+
 
 #### Por FQDN
 ```bash
-ssh bruno.gabriel@fabrisia.grupo6.bsi-26-1.maceio.lab
+ssh bruno.gabriel@wladia.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
+
+<img width="1280" height="800" alt="BRUNO-E-WLADIA-POR-FWND" src="https://github.com/user-attachments/assets/478ecb58-9a80-4b9a-9a04-d8004a316312" />
 
 ---
 
