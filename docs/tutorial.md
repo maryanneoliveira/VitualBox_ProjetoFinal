@@ -105,7 +105,7 @@ sudo hostnamectl set-hostname [hostname]
 Exemplo para a primeira VM:
 
 ```bash
-sudo hostnamectl set-hostname g4-pc1-vm1
+sudo hostnamectl set-hostname monica
 ```
 
 Confirme:
