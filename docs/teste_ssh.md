@@ -238,10 +238,10 @@ Espaço IMG
 
 ---
 
-**alex.rodrigo → monica** (FQDN)
+**alex.rodrigo → wladia** (FQDN)
 
 ```bash
-ssh alex.rodrigo@monica.grupo6.bsi-26-1.maceio.lab
+ssh alex.rodrigo@wladia.grupo6.bsi-26-1.maceio.lab
 ```
 
 Espaço IMG
