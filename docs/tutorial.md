@@ -236,8 +236,6 @@ o mapeamento de **todas** as VMs do grupo):
 
 <img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_20_16_00_ FQDN CRIADOS" src="https://github.com/user-attachments/assets/41fb1b5d-0725-4288-b707-de47e202f567" />
 
-<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_53_57_users created" src="https://github.com/user-attachments/assets/2707d709-1f25-4cb0-a858-0d0e9cb65c31" />
-<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_19_53_57_users created" src="https://github.com/user-attachments/assets/025d0303-328c-465c-9596-6342bf123052" />
 
 ---
 
