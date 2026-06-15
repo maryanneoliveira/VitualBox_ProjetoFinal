@@ -84,7 +84,7 @@ ping -c 4 frederico.grupo6.bsi-26-1.maceio.lab
 
 frederico → ricardo (Por Hostname curto)
 ```bash
-ping -c 4 ricardo]
+ping -c 4 ricardo
 ````
 
 ricardo → monica (Por IP direto)
