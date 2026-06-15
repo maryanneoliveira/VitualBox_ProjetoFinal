@@ -18,6 +18,7 @@ Durante a instalação do Ubuntu Server, deve ser criada a conta administrativa 
 - **Senha:** `adminifal`
 
 Esta conta é utilizada para o primeiro acesso e para a execução dos comandos com `sudo`.
+<img width="1280" height="800" alt="user admin" src="https://github.com/user-attachments/assets/46c008f4-2ddf-4002-9722-6ab1b660f41f" />
 
 ---
 
