@@ -101,36 +101,43 @@ tarcio → kenji (Por IP direto)
 ```bash
 ping -c 4 192.168.26.86
 ````
+<img width="1280" height="800" alt="tarcio-pra-kenji" src="https://github.com/user-attachments/assets/ae696aab-3d22-4d13-a56b-60186fbeeb25" />
 
 kenji → frederico (Por FQDN completo)
 ```bash
 ping -c 4 frederico.grupo6.bsi-26-1.maceio.lab
 ````
+<img width="1280" height="800" alt="kenji-pra-frederico" src="https://github.com/user-attachments/assets/c1229970-0486-41da-afbe-59142f8d9664" />
 
 frederico → ricardo (Por Hostname curto)
 ```bash
 ping -c 4 ricardo
 ````
+<img width="1280" height="800" alt="frederico-pra-ricardo" src="https://github.com/user-attachments/assets/e9a6db66-dd48-4a42-af75-55bc2f77afba" />
 
 ricardo → monica (Por IP direto)
 ```bash
 ping -c 4 192.168.26.81
 ```
+<img width="1280" height="800" alt="ricardo-pra-monica" src="https://github.com/user-attachments/assets/89b8f7cb-f51b-47c3-8903-a5e45540e6fb" />
 
 monica → tarcio (Por Hostname curto)
 ```bash
 ping -c 4 tarcio
 ```
+<img width="1280" height="800" alt="monica-pra-tarcio" src="https://github.com/user-attachments/assets/336bf116-68a1-4472-af2b-6570ac1a9eee" />
 
 fabrisia → kenji (Por FQDN completo)
 ```bash
 ping -c 4 kenji.grupo6.bsi-26-1.maceio.lab
 ```
+<img width="1280" height="800" alt="fabrisia-pra-kenji" src="https://github.com/user-attachments/assets/78fde531-afd8-43b3-9d42-e607cc1a59ba" />
 
 wladia → frederico (Por IP direto)
 ```bash
 ping -c 4 192.168.26.87
 ```
+<img width="1280" height="800" alt="wladia-pra-frederico" src="https://github.com/user-attachments/assets/fcb5d243-c76c-4d7a-a68f-82bd4c23d1c8" />
 
 alaelson → ricardo (Por Hostname curto)
 ```bash
