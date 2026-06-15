@@ -234,6 +234,8 @@ o mapeamento de **todas** as VMs do grupo):
 192.168.26.88   ricardo.grupo6.bsi-26-1.maceio.lab    ricardo
 ```
 
+<img width="1280" height="800" alt="VirtualBox_monica_28_05_2026_20_16_00_ FQDN CRIADOS" src="https://github.com/user-attachments/assets/41fb1b5d-0725-4288-b707-de47e202f567" />
+
 Exemplo da linha `127.0.1.1` para a VM1:
 
 ```text
