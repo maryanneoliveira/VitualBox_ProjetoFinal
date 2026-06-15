@@ -100,6 +100,6 @@ A atribuição por grupo ocorre de forma sequencial:
 
 ### 5.3. Testes
 
-* **Criação das máquinas:** [Instituto Federal de Alagoas (IFAL) - Campus Maceió](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/tutorial.md)
+* **Criação das máquinas:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/tutorial.md
 * **Testes Ping:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ping.md
 * **Testes SSH:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ssh.md
