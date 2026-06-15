@@ -119,44 +119,43 @@ ssh alex.rodrigo@fabrisia.grupo6.bsi-26-1.maceio.lab
 ### Em monica
 
 Os testes foram executados e documentados nas imagens abaixo:
+#### Por IP (192.168.26.81)
 ```bash
 ssh maryane.oliveira@192.168.26.81
 ```
-Espaço IMG
+<img width="1280" height="800" alt="MARYANE-E-MONICA-POR-IP" src="https://github.com/user-attachments/assets/6a29bb79-6f57-4a1f-b0e6-0d6b174dce0c" />
 
 #### Por hostname (monica)
 ```bash
 ssh maryane.oliveira@monica
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="MARYANE-E-MONICA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/e23e65d9-cdb0-48fc-bce3-cb57625040f8" />
 #### Por FQDN
 ```bash
 ssh maryane.oliveira@monica.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="MARYANE-E-MONICA-POR-FWND" src="https://github.com/user-attachments/assets/c3c3a2de-1391-47ec-b95c-ad076fe59fc1" />
 ---
 
 ### Em wladia
 
 Os testes foram executados e documentados nas imagens abaixo:
+#### Por IP (192.168.26.81)
 ```bash
 ssh maryane.oliveira@192.168.26.
 ```
-Espaço IMG
+<img width="1280" height="800" alt="MARYANE-E-WLADIA-POR-IP" src="https://github.com/user-attachments/assets/524e0227-c3fe-412f-aa6b-9114b26b2129" />
 
 #### Por hostname (wladia)
 ```bash
 ssh maryane.oliveira@wladia
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="MARYANE-E-WLADIA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/b61c0842-306c-4e93-84d8-4a0eae0b36b6" />
 #### Por FQDN
 ```bash
 ssh maryane.oliveira@wladia.grupo6.bsi-26-1.maceio.lab
-Espaço IMG
-
+```
+<img width="1280" height="800" alt="MARYANE-E-WLADIA-POR-FWND" src="https://github.com/user-attachments/assets/a3ace4f4-ab7e-4071-83dc-105c9a9b1aa0" />
 ---
 
 ## 4. Testes de Joao (joao.guilherme)
