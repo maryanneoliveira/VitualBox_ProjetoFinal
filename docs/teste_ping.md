@@ -7,8 +7,8 @@ Os comandos de destino foram disparados em lote no terminal para que uma única 
 ## Testes efetuados a partir de monica
 Destino: wladia
 
-```bash
-ping -c 4 192.168.26.82
+
+ping -c 4 192.168.26.82 
 <img width="1280" height="800" alt="monica-pra-wladia-1" src="https://github.com/user-attachments/assets/fb09e8f9-eed7-468c-9944-150b4d0fd42e" />
 
 ping -c 4 wladia
