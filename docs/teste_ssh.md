@@ -43,19 +43,19 @@ Espaço IMG
 
 Os testes foram executados e documentados nas imagens abaixo:
 ```bash
-ssh bruno.gabriel@192.168.26.82
+ssh bruno.gabriel@192.168.26.83
 ```
 Espaço IMg
 
 #### Por hostname (wladia)
 ```bash
-ssh bruno.gabriel@wladia
+ssh bruno.gabriel@fabrisia
 ```
 Espaço IMG
 
 #### Por FQDN
 ```bash
-ssh bruno.gabriel@wladia.grupo6.bsi-26-1.maceio.lab
+ssh bruno.gabriel@fabrisia.grupo6.bsi-26-1.maceio.lab
 ```
 Espaço IMG
 
