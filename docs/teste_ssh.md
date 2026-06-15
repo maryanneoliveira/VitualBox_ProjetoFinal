@@ -71,42 +71,45 @@ ssh bruno.gabriel@wladia.grupo6.bsi-26-1.maceio.lab
 ### Em monica
 
 Os testes foram executados e documentados nas imagens abaixo:
+#### Por IP (192.168.26.81)
 ```bash
 ssh alex.rodrigo@192.168.26.81
 ```
-Espaço IMG
+<img width="1280" height="800" alt="ALEX-E-MONICA_POR_IP" src="https://github.com/user-attachments/assets/a58e1f1d-240f-4069-acbc-a3f0ba625e3b" />
 
 #### Por hostname (monica)
 ```bash
 ssh alex.rodrigo@monica
 ```
-Espaço IMG
+<img width="1280" height="800" alt="ALEX-E-MONICA_POR_HOSTENAME" src="https://github.com/user-attachments/assets/21dd609d-20e5-4421-b19a-738fa9de928f" />
+
 
 #### Por FQDN
 ```bash
 ssh alex.rodrigo@monica.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
+<img width="1280" height="800" alt="ALEX-E-MONICA_POR_FQDN" src="https://github.com/user-attachments/assets/de0d7666-e9f8-4d5e-b3f5-608b787d5421" />
 
 ---
 
-### Em wladia
+### Em Fabrisia
 
 Os testes foram executados e documentados nas imagens abaixo:
+#### Por IP (192.168.26.83)
 ```bash
-ssh alex.rodrigo@192.168.26.82
+ssh alex.rodrigo@192.168.26.83
 ```
-Espaço IMG
+<img width="1280" height="800" alt="ALEX-E-FABRISIA-POR-IP" src="https://github.com/user-attachments/assets/8b4e8a35-4786-40a9-af1a-9c132cbc6429" />
 
 #### Por hostname (wladia)
 ```bash
-ssh alex.rodrigo@wladia
+ssh alex.rodrigo@fabrisia
 ```
 Espaço IMG
 
 #### Por FQDN
 ```bash
-ssh alex.rodrigo@wladia.grupo6.bsi-26-1.maceio.lab
+ssh alex.rodrigo@fabrisia.grupo6.bsi-26-1.maceio.lab
 ```
 Espaço IMG
 
