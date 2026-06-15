@@ -97,3 +97,9 @@ A atribuição por grupo ocorre de forma sequencial:
 | **VM 7** | `frederico` | `enp0s3` | `frederico.grupo6.bsi-26-1.maceio.lab` | `192.168.26.87` | `255.255.255.240` |
 | **VM 8** | `ricardo` | `enp0s3` | `ricardo.grupo6.bsi-26-1.maceio.lab` | `192.168.26.88` | `255.255.255.240` |
 ---
+
+### 5.3. Testes
+
+* **Criação das máquinas:** [Instituto Federal de Alagoas (IFAL) - Campus Maceió](https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/tutorial.md)
+* **Testes Ping:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ping.md
+* **Testes SSH:** https://github.com/maryanneoliveira/VitualBox_ProjetoFinal/blob/main/docs/teste_ssh.md
