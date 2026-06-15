@@ -117,7 +117,7 @@ ssh maryane.oliveira@192.168.26.81
 ```
 Espaço IMG
 
-#### Por hostname (g4-pc3-vm1)
+#### Por hostname (monica)
 ```bash
 ssh maryane.oliveira@monica
 ```
@@ -232,7 +232,7 @@ Espaço IMG
 
 ---
 
-**isaque.braga → monica** (FQDN)
+**alex.rodrigo → monica** (FQDN)
 
 ```bash
 ssh alex.rodrigo@monica.grupo6.bsi-26-1.maceio.lab
