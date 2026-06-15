@@ -20,6 +20,11 @@ ping -c 4 192.168.26.83
 ping -c 4 fabrisia
 ping -c 4 fabrisia.grupo6.bsi-26-1.maceio.lab
 ```
+<img width="1280" height="800" alt="monica-pra-fabrisia-1" src="https://github.com/user-attachments/assets/81a010fc-dcca-4e48-9b5b-1bd5508ff609" />
+<img width="1280" height="800" alt="monica-pra-fabrisia-2" src="https://github.com/user-attachments/assets/311ef711-b978-43c8-8fe8-73af88ab208f" />
+<img width="1280" height="800" alt="monica-pra-fabrisia-3" src="https://github.com/user-attachments/assets/02370e47-5fe8-404e-9145-5b63aec79f0a" />
+
+
 Destino: alaelson
 ```bash
 ping -c 4 192.168.26.84
