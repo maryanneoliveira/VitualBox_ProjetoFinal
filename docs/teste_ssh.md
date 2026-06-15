@@ -101,18 +101,17 @@ ssh alex.rodrigo@192.168.26.83
 ```
 <img width="1280" height="800" alt="ALEX-E-FABRISIA-POR-IP" src="https://github.com/user-attachments/assets/8b4e8a35-4786-40a9-af1a-9c132cbc6429" />
 
-#### Por hostname (wladia)
+#### Por hostname (fabrisia)
 ```bash
 ssh alex.rodrigo@fabrisia
 ```
-Espaço IMG
+<img width="1280" height="800" alt="ALEX-FABRISIA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/64808350-8af9-4d26-a0e5-620d5eaabce1" />
 
 #### Por FQDN
 ```bash
 ssh alex.rodrigo@fabrisia.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="ALEX-E-FABRISIA-POR-FQDN" src="https://github.com/user-attachments/assets/35d6f6fb-2a7b-45c8-b9fc-bef88d483838" />
 ---
 
 ## 3. Testes de Maryane (maryane.oliveira)
@@ -143,7 +142,7 @@ Espaço IMG
 
 Os testes foram executados e documentados nas imagens abaixo:
 ```bash
-ssh maryane.oliveira@192.168.26.54
+ssh maryane.oliveira@192.168.26.
 ```
 Espaço IMG
 
