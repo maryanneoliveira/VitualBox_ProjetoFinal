@@ -9,15 +9,11 @@ Destino: wladia
 
 ```bash
 ping -c 4 192.168.26.82 
-<img width="1280" height="800" alt="monica-pra-wladia-1" src="https://github.com/user-attachments/assets/fb09e8f9-eed7-468c-9944-150b4d0fd42e" />
-
 ping -c 4 wladia
-<img width="1280" height="800" alt="monica-pra-wladia-2" src="https://github.com/user-attachments/assets/a8ec4d76-37d4-4738-b3ac-c5c6d5ade4c1" />
-
 ping -c 4 wladia.grupo6.bsi-26-1.maceio.lab
-<img width="1280" height="800" alt="monica-pra-wladia-3" src="https://github.com/user-attachments/assets/19899378-1c8d-49b4-98ef-524136092e3d" />
-
 ```
+<img width="1280" height="800" alt="monica-pra-wladia-3 (1)" src="https://github.com/user-attachments/assets/9f7c06ee-3261-46c0-89c6-fec079f2c95a" />
+
 Destino: fabrisia
 ```bash
 ping -c 4 192.168.26.83
