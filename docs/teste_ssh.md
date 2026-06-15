@@ -166,20 +166,19 @@ Os testes foram executados e documentados nas imagens abaixo:
 ```bash
 ssh joao.guilherme@192.168.26.81
 ```
-Espaço IMG
+<img width="1280" height="800" alt="JOAO-E-MONICA-POR-IP" src="https://github.com/user-attachments/assets/9e470a68-7055-4641-875d-29779f9e8ee5" />
 
 #### Por hostname (monica)
 ```bash
 ssh joao.guilherme@monica
 ```
-Espaço IMG
+<img width="1280" height="800" alt="JOAO-E-MONICA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/15e3cf0c-428b-4834-881e-22f8c3c4b091" />
 
 #### Por FQDN
 ```bash
 ssh joao.guilherme@monica.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="JOAO-E-WLADIA-POR-FWND" src="https://github.com/user-attachments/assets/dfd93efa-5182-456d-addf-87e66f3f08cf" />
 ---
 
 ### Em wladia
@@ -188,106 +187,20 @@ Os testes foram executados e documentados nas imagens abaixo:
 ```bash
 ssh joao.guilhermes@192.168.26.82
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="JOAO-E-WLADIA-POR-IP" src="https://github.com/user-attachments/assets/dd14c5a8-956a-4c62-af97-3b8091e99005" />
 #### Por hostname (wladia)
 ```bash
 ssh joao.guilherme@wladia
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="JOAO-E-WLADIA-POR-HOSTNAME" src="https://github.com/user-attachments/assets/82856311-6363-4843-bffc-1ca6f676ad98" />
 #### Por FQDN
 ```bash
 ssh joao.guilherme@wladia.grupo6.bsi-26-1.maceio.lab
 ```
-Espaço IMG
-
+<img width="1280" height="800" alt="JOAO-E-WLADIA-POR-FWND" src="https://github.com/user-attachments/assets/d06359ed-400b-420f-9aa1-281e20dd96a6" />
 ---
 
-## 5. Testes aleatórios cruzados
-
-Testes avulsos onde cada usuário acessa uma VM que não é a sua, usando um tipo de identificação variado. Confirma que todos os usuários foram criados em todas as máquinas e que o SSH funciona entre qualquer par de VMs.
-
-**bruno.gabriel → monica** (IP)
-
-```bash
-ssh bruno.gabriel@192.168.26.81
-```
-
-Espaço IMG
-
----
-
-**bruno.gabriel → wladia** (FQDN)
-
-```bash
-ssh bruno.gabriel@wladia.grupo6.bsi-26-1.maceio.lab
-```
-
-Espaço IMG
-
----
-
-**alex.rodrigo → monica** (hostname)
-
-```bash
-ssh alex.rodrigo@monica
-```
-
-Espaço IMG
-
----
-
-**alex.rodrigo → wladia** (FQDN)
-
-```bash
-ssh alex.rodrigo@wladia.grupo6.bsi-26-1.maceio.lab
-```
-
-Espaço IMG
-
----
-
-**maryane.oliveira → wladia (IP)
-
-```bash
-ssh maryane.oliveira@192.168.26.82
-```
-
-Espaço IMG
----
-
-**maryane.oliveira → monica** (hostname)
-
-```bash
-ssh maryane.oliveira@monica
-```
-
-Espaço IMG
-
----
-
-**joao.guilherme → monica** (IP)
-
-```bash
-ssh joao.guilherme@192.168.26.81
-```
-
-Espaço IMG
-
----
-
-**joao.guilherme → wladia** (FQDN)
-
-```bash
-ssh joao.guilherme@wladia.grupo6.bsi-26-1.maceio.lab
-```
-
-Espaço IMG
-
----
-
-## 6. Resumo
+## 5. Resumo
 
 **Total de testes:** 32 prints (24 originais + 8 cruzados aleatórios)
 
@@ -298,4 +211,3 @@ Todos os testes de SSH foram bem-sucedidos, demonstrando:
 - ✅ Resolução de nomes por FQDN habilitada
 - ✅ Autenticação funcionando em todas as máquinas
 - ✅ Usuários criados corretamente em VMs de outros integrantes
-- ✅ Comunicação SSH segura estabelecida
